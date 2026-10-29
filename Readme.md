@@ -119,6 +119,10 @@ This project was developed as part of my **Full Stack Web Development Internship
 
 ---
 
-**Project:** BlogSpace  
+## Author
+
+**Muhammad Nabi**
+
+**Project:** Blog Application  
 **Focus:** Backend Development and API Integration  
 **Technologies:** Node.js, Express.js, JavaScript, HTML, CSS
